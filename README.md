@@ -14,3 +14,4 @@ npm install
 node index.js
 ```
 
+And log into your Moesif account and you should see API data captured.
